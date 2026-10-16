@@ -1,2 +1,3 @@
-# Boring-Executor-Source
-Source code of a executor i made
+# Boring-Executor
+
+MY OWN EXECUTOR YAY

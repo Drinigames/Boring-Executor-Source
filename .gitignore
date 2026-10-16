@@ -1,8 +1,0 @@
-# Exclude build outputs
-bin/
-obj/
-
-# Exclude Visual Studio cache and user settings
-.vs/
-*.user
-*.suo
